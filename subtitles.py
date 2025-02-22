@@ -4,7 +4,6 @@ import os
 
 load_dotenv()
 
-#aai.settings.api_key = "8beccdeb004c4ba98617171e40ee7504"
 aai.settings.api_key = os.getenv('assembly_api_key')
 
 transcriber = aai.Transcriber()
