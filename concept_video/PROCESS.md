@@ -139,9 +139,10 @@ Revised visual mix for the concept: about 30% digital-twin A-roll, 50% animated 
 
 ## 6. Next build steps
 
-1. Scaffold `concept_video/` as a resumable stage runner: one folder and one artifact per stage, plus a cost ledger.
-2. Stage 3 first: script generation from a topic and the style bible. This can run as soon as the Anthropic/OpenAI keys are present.
-3. Stage 4: ElevenLabs PVC voice with word timestamps.
-4. Twin bake-off: render the same 10 s line on two or three fal avatar models and pick the best.
-5. Remotion project: caption, animated-graphic and lower-third components driven by `edl.json`.
-6. Wire QA and the unlisted upload, then run the whole thing end to end.
+1. ✅ Resumable stage runner: one folder and one artifact per stage, a cost ledger, gates A/B/C, hand-supplied artifacts (see [README](README.md)).
+2. ✅ Remotion project: word-level captions, six animated-graphic types, lower-third and progress bar, all driven by `edl.json`. The EDL builder, renderer (loudness-normalised) and technical QA all run.
+3. Stages 1–3: ideation, research and script generation from a topic and the style bible. Needs the Anthropic/OpenAI keys.
+4. Stage 4: ElevenLabs PVC voice with timestamps, fed through `alignmentToWords`.
+5. Twin bake-off: render the same 10 s line on two or three fal avatar models and pick the best.
+6. Stages 5b, 6 and 8: generated visuals, music bed, and packaging.
+7. QA additions (ASR diff, multimodal judge), then the unlisted upload, then the full end-to-end run.

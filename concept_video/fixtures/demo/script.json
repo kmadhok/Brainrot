@@ -1,0 +1,33 @@
+{
+  "title": "FIXTURE: How I make videos with AI without losing my voice",
+  "beats": [
+    { "id": "b1", "visual": "aroll", "line": "I made this entire video without touching an editing timeline.", "emphasis": ["entire", "without"] },
+    { "id": "b2", "visual": "graphic", "line": "Here's the catch: every word is still mine.", "graphic": { "kind": "kinetic", "text": "Every word is mine" }, "emphasis": ["mine."] },
+    {
+      "id": "b3", "visual": "graphic",
+      "line": "The pipeline researches the topic, drafts in my style, voices it with my clone, animates the visuals, and then waits for me.",
+      "graphic": { "kind": "steps", "title": "What the AI does", "steps": ["Researches the topic", "Drafts in my style", "Voices it with my clone", "Animates the visuals", "Waits for my approval"] },
+      "emphasis": []
+    },
+    { "id": "b4", "visual": "aroll", "line": "That last step matters more than you'd think.", "emphasis": ["matters"] },
+    {
+      "id": "b5", "visual": "graphic",
+      "line": "In January, YouTube removed AI channels with roughly four point seven billion combined views.",
+      "graphic": { "kind": "stat", "value": 4.7, "suffix": "B", "label": "views on AI channels YouTube removed", "source": "YouTube enforcement, Jan 2026" },
+      "emphasis": ["billion"]
+    },
+    {
+      "id": "b6", "visual": "graphic",
+      "line": "So my job shrinks to three checkpoints: pick the angle, edit the script, and sign off on the cut.",
+      "graphic": { "kind": "bars", "title": "My minutes per video (target)", "unit": " min", "items": [ { "label": "Pick angle", "value": 1 }, { "label": "Edit script", "value": 15 }, { "label": "Final review", "value": 5 } ] },
+      "emphasis": ["three"]
+    },
+    {
+      "id": "b7", "visual": "graphic",
+      "line": "The rule I built this around is simple. The automation replaces the editor, not the author.",
+      "graphic": { "kind": "quote", "text": "The automation replaces the editor, not the author.", "attribution": "the brief" },
+      "emphasis": []
+    },
+    { "id": "b8", "visual": "aroll", "line": "Want the full workflow? It's in the report linked below.", "emphasis": ["full", "workflow?"] }
+  ]
+}

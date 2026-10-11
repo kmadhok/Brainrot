@@ -1,0 +1,715 @@
+{
+  "meta": {
+    "title": "FIXTURE: How I make videos with AI without losing my voice",
+    "fps": 30,
+    "width": 1920,
+    "height": 1080,
+    "durationMs": 43626
+  },
+  "audio": {
+    "musicVolume": 0.12,
+    "sfx": []
+  },
+  "beats": [
+    {
+      "id": "b1",
+      "startMs": 0,
+      "endMs": 4094,
+      "type": "aroll",
+      "srcStartMs": 0,
+      "zoom": [
+        {
+          "atMs": 1062,
+          "to": 1.08
+        },
+        {
+          "atMs": 1810,
+          "to": 1.08
+        }
+      ],
+      "source": "placeholder"
+    },
+    {
+      "id": "b2",
+      "startMs": 4094,
+      "endMs": 7382,
+      "type": "graphic",
+      "srcStartMs": 0,
+      "graphic": {
+        "kind": "kinetic",
+        "text": "Every word is mine"
+      },
+      "zoom": [],
+      "source": "graphic"
+    },
+    {
+      "id": "b3",
+      "startMs": 7382,
+      "endMs": 16406,
+      "type": "graphic",
+      "srcStartMs": 0,
+      "graphic": {
+        "kind": "steps",
+        "title": "What the AI does",
+        "steps": [
+          "Researches the topic",
+          "Drafts in my style",
+          "Voices it with my clone",
+          "Animates the visuals",
+          "Waits for my approval"
+        ]
+      },
+      "zoom": [],
+      "source": "graphic"
+    },
+    {
+      "id": "b4",
+      "startMs": 16406,
+      "endMs": 19490,
+      "type": "aroll",
+      "srcStartMs": 0,
+      "zoom": [
+        {
+          "atMs": 17402,
+          "to": 1.08
+        }
+      ],
+      "source": "placeholder"
+    },
+    {
+      "id": "b5",
+      "startMs": 19490,
+      "endMs": 25330,
+      "type": "graphic",
+      "srcStartMs": 0,
+      "graphic": {
+        "kind": "stat",
+        "value": 4.7,
+        "suffix": "B",
+        "label": "views on AI channels YouTube removed",
+        "source": "YouTube enforcement, Jan 2026"
+      },
+      "zoom": [],
+      "source": "graphic"
+    },
+    {
+      "id": "b6",
+      "startMs": 25330,
+      "endMs": 32762,
+      "type": "graphic",
+      "srcStartMs": 0,
+      "graphic": {
+        "kind": "bars",
+        "title": "My minutes per video (target)",
+        "unit": " min",
+        "items": [
+          {
+            "label": "Pick angle",
+            "value": 1
+          },
+          {
+            "label": "Edit script",
+            "value": 15
+          },
+          {
+            "label": "Final review",
+            "value": 5
+          }
+        ]
+      },
+      "zoom": [],
+      "source": "graphic"
+    },
+    {
+      "id": "b7",
+      "startMs": 32762,
+      "endMs": 39190,
+      "type": "graphic",
+      "srcStartMs": 0,
+      "graphic": {
+        "kind": "quote",
+        "text": "The automation replaces the editor, not the author.",
+        "attribution": "the brief"
+      },
+      "zoom": [],
+      "source": "graphic"
+    },
+    {
+      "id": "b8",
+      "startMs": 39190,
+      "endMs": 43626,
+      "type": "aroll",
+      "srcStartMs": 0,
+      "zoom": [
+        {
+          "atMs": 39826,
+          "to": 1.08
+        },
+        {
+          "atMs": 40158,
+          "to": 1.08
+        }
+      ],
+      "source": "placeholder"
+    }
+  ],
+  "words": [
+    {
+      "text": "I",
+      "startMs": 150,
+      "endMs": 358
+    },
+    {
+      "text": "made",
+      "startMs": 398,
+      "endMs": 690
+    },
+    {
+      "text": "this",
+      "startMs": 730,
+      "endMs": 1022
+    },
+    {
+      "text": "entire",
+      "startMs": 1062,
+      "endMs": 1410
+    },
+    {
+      "text": "video",
+      "startMs": 1450,
+      "endMs": 1770
+    },
+    {
+      "text": "without",
+      "startMs": 1810,
+      "endMs": 2186
+    },
+    {
+      "text": "touching",
+      "startMs": 2226,
+      "endMs": 2630
+    },
+    {
+      "text": "an",
+      "startMs": 2670,
+      "endMs": 2906
+    },
+    {
+      "text": "editing",
+      "startMs": 2946,
+      "endMs": 3322
+    },
+    {
+      "text": "timeline.",
+      "startMs": 3362,
+      "endMs": 3794
+    },
+    {
+      "text": "Here's",
+      "startMs": 4094,
+      "endMs": 4442
+    },
+    {
+      "text": "the",
+      "startMs": 4482,
+      "endMs": 4746
+    },
+    {
+      "text": "catch:",
+      "startMs": 4786,
+      "endMs": 5134
+    },
+    {
+      "text": "every",
+      "startMs": 5434,
+      "endMs": 5754
+    },
+    {
+      "text": "word",
+      "startMs": 5794,
+      "endMs": 6086
+    },
+    {
+      "text": "is",
+      "startMs": 6126,
+      "endMs": 6362
+    },
+    {
+      "text": "still",
+      "startMs": 6402,
+      "endMs": 6722
+    },
+    {
+      "text": "mine.",
+      "startMs": 6762,
+      "endMs": 7082
+    },
+    {
+      "text": "The",
+      "startMs": 7382,
+      "endMs": 7646
+    },
+    {
+      "text": "pipeline",
+      "startMs": 7686,
+      "endMs": 8090
+    },
+    {
+      "text": "researches",
+      "startMs": 8130,
+      "endMs": 8590
+    },
+    {
+      "text": "the",
+      "startMs": 8630,
+      "endMs": 8894
+    },
+    {
+      "text": "topic,",
+      "startMs": 8934,
+      "endMs": 9282
+    },
+    {
+      "text": "drafts",
+      "startMs": 9582,
+      "endMs": 9930
+    },
+    {
+      "text": "in",
+      "startMs": 9970,
+      "endMs": 10206
+    },
+    {
+      "text": "my",
+      "startMs": 10246,
+      "endMs": 10482
+    },
+    {
+      "text": "style,",
+      "startMs": 10522,
+      "endMs": 10870
+    },
+    {
+      "text": "voices",
+      "startMs": 11170,
+      "endMs": 11518
+    },
+    {
+      "text": "it",
+      "startMs": 11558,
+      "endMs": 11794
+    },
+    {
+      "text": "with",
+      "startMs": 11834,
+      "endMs": 12126
+    },
+    {
+      "text": "my",
+      "startMs": 12166,
+      "endMs": 12402
+    },
+    {
+      "text": "clone,",
+      "startMs": 12442,
+      "endMs": 12790
+    },
+    {
+      "text": "animates",
+      "startMs": 13090,
+      "endMs": 13494
+    },
+    {
+      "text": "the",
+      "startMs": 13534,
+      "endMs": 13798
+    },
+    {
+      "text": "visuals,",
+      "startMs": 13838,
+      "endMs": 14242
+    },
+    {
+      "text": "and",
+      "startMs": 14542,
+      "endMs": 14806
+    },
+    {
+      "text": "then",
+      "startMs": 14846,
+      "endMs": 15138
+    },
+    {
+      "text": "waits",
+      "startMs": 15178,
+      "endMs": 15498
+    },
+    {
+      "text": "for",
+      "startMs": 15538,
+      "endMs": 15802
+    },
+    {
+      "text": "me.",
+      "startMs": 15842,
+      "endMs": 16106
+    },
+    {
+      "text": "That",
+      "startMs": 16406,
+      "endMs": 16698
+    },
+    {
+      "text": "last",
+      "startMs": 16738,
+      "endMs": 17030
+    },
+    {
+      "text": "step",
+      "startMs": 17070,
+      "endMs": 17362
+    },
+    {
+      "text": "matters",
+      "startMs": 17402,
+      "endMs": 17778
+    },
+    {
+      "text": "more",
+      "startMs": 17818,
+      "endMs": 18110
+    },
+    {
+      "text": "than",
+      "startMs": 18150,
+      "endMs": 18442
+    },
+    {
+      "text": "you'd",
+      "startMs": 18482,
+      "endMs": 18802
+    },
+    {
+      "text": "think.",
+      "startMs": 18842,
+      "endMs": 19190
+    },
+    {
+      "text": "In",
+      "startMs": 19490,
+      "endMs": 19726
+    },
+    {
+      "text": "January,",
+      "startMs": 19766,
+      "endMs": 20170
+    },
+    {
+      "text": "YouTube",
+      "startMs": 20470,
+      "endMs": 20846
+    },
+    {
+      "text": "removed",
+      "startMs": 20886,
+      "endMs": 21262
+    },
+    {
+      "text": "AI",
+      "startMs": 21302,
+      "endMs": 21538
+    },
+    {
+      "text": "channels",
+      "startMs": 21578,
+      "endMs": 21982
+    },
+    {
+      "text": "with",
+      "startMs": 22022,
+      "endMs": 22314
+    },
+    {
+      "text": "roughly",
+      "startMs": 22354,
+      "endMs": 22730
+    },
+    {
+      "text": "four",
+      "startMs": 22770,
+      "endMs": 23062
+    },
+    {
+      "text": "point",
+      "startMs": 23102,
+      "endMs": 23422
+    },
+    {
+      "text": "seven",
+      "startMs": 23462,
+      "endMs": 23782
+    },
+    {
+      "text": "billion",
+      "startMs": 23822,
+      "endMs": 24198
+    },
+    {
+      "text": "combined",
+      "startMs": 24238,
+      "endMs": 24642
+    },
+    {
+      "text": "views.",
+      "startMs": 24682,
+      "endMs": 25030
+    },
+    {
+      "text": "So",
+      "startMs": 25330,
+      "endMs": 25566
+    },
+    {
+      "text": "my",
+      "startMs": 25606,
+      "endMs": 25842
+    },
+    {
+      "text": "job",
+      "startMs": 25882,
+      "endMs": 26146
+    },
+    {
+      "text": "shrinks",
+      "startMs": 26186,
+      "endMs": 26562
+    },
+    {
+      "text": "to",
+      "startMs": 26602,
+      "endMs": 26838
+    },
+    {
+      "text": "three",
+      "startMs": 26878,
+      "endMs": 27198
+    },
+    {
+      "text": "checkpoints:",
+      "startMs": 27238,
+      "endMs": 27754
+    },
+    {
+      "text": "pick",
+      "startMs": 28054,
+      "endMs": 28346
+    },
+    {
+      "text": "the",
+      "startMs": 28386,
+      "endMs": 28650
+    },
+    {
+      "text": "angle,",
+      "startMs": 28690,
+      "endMs": 29038
+    },
+    {
+      "text": "edit",
+      "startMs": 29338,
+      "endMs": 29630
+    },
+    {
+      "text": "the",
+      "startMs": 29670,
+      "endMs": 29934
+    },
+    {
+      "text": "script,",
+      "startMs": 29974,
+      "endMs": 30350
+    },
+    {
+      "text": "and",
+      "startMs": 30650,
+      "endMs": 30914
+    },
+    {
+      "text": "sign",
+      "startMs": 30954,
+      "endMs": 31246
+    },
+    {
+      "text": "off",
+      "startMs": 31286,
+      "endMs": 31550
+    },
+    {
+      "text": "on",
+      "startMs": 31590,
+      "endMs": 31826
+    },
+    {
+      "text": "the",
+      "startMs": 31866,
+      "endMs": 32130
+    },
+    {
+      "text": "cut.",
+      "startMs": 32170,
+      "endMs": 32462
+    },
+    {
+      "text": "The",
+      "startMs": 32762,
+      "endMs": 33026
+    },
+    {
+      "text": "rule",
+      "startMs": 33066,
+      "endMs": 33358
+    },
+    {
+      "text": "I",
+      "startMs": 33398,
+      "endMs": 33606
+    },
+    {
+      "text": "built",
+      "startMs": 33646,
+      "endMs": 33966
+    },
+    {
+      "text": "this",
+      "startMs": 34006,
+      "endMs": 34298
+    },
+    {
+      "text": "around",
+      "startMs": 34338,
+      "endMs": 34686
+    },
+    {
+      "text": "is",
+      "startMs": 34726,
+      "endMs": 34962
+    },
+    {
+      "text": "simple.",
+      "startMs": 35002,
+      "endMs": 35378
+    },
+    {
+      "text": "The",
+      "startMs": 35678,
+      "endMs": 35942
+    },
+    {
+      "text": "automation",
+      "startMs": 35982,
+      "endMs": 36442
+    },
+    {
+      "text": "replaces",
+      "startMs": 36482,
+      "endMs": 36886
+    },
+    {
+      "text": "the",
+      "startMs": 36926,
+      "endMs": 37190
+    },
+    {
+      "text": "editor,",
+      "startMs": 37230,
+      "endMs": 37606
+    },
+    {
+      "text": "not",
+      "startMs": 37906,
+      "endMs": 38170
+    },
+    {
+      "text": "the",
+      "startMs": 38210,
+      "endMs": 38474
+    },
+    {
+      "text": "author.",
+      "startMs": 38514,
+      "endMs": 38890
+    },
+    {
+      "text": "Want",
+      "startMs": 39190,
+      "endMs": 39482
+    },
+    {
+      "text": "the",
+      "startMs": 39522,
+      "endMs": 39786
+    },
+    {
+      "text": "full",
+      "startMs": 39826,
+      "endMs": 40118
+    },
+    {
+      "text": "workflow?",
+      "startMs": 40158,
+      "endMs": 40590
+    },
+    {
+      "text": "It's",
+      "startMs": 40890,
+      "endMs": 41182
+    },
+    {
+      "text": "in",
+      "startMs": 41222,
+      "endMs": 41458
+    },
+    {
+      "text": "the",
+      "startMs": 41498,
+      "endMs": 41762
+    },
+    {
+      "text": "report",
+      "startMs": 41802,
+      "endMs": 42150
+    },
+    {
+      "text": "linked",
+      "startMs": 42190,
+      "endMs": 42538
+    },
+    {
+      "text": "below.",
+      "startMs": 42578,
+      "endMs": 42926
+    }
+  ],
+  "emphasis": [
+    "entire",
+    "without",
+    "mine.",
+    "matters",
+    "billion",
+    "three",
+    "full",
+    "workflow?"
+  ],
+  "captions": {
+    "enabled": true,
+    "combineWithinMs": 900
+  },
+  "brand": {
+    "font": "Inter",
+    "bg": "#0E0F13",
+    "fg": "#F4F1EA",
+    "accent": "#FFB020",
+    "accent2": "#4CC2FF",
+    "creatorName": "Creator Name"
+  }
+}
